@@ -1,0 +1,536 @@
+<html xmlns:x="urn:schemas-microsoft-com:office:excel"><head><meta http-equiv="Content-Type" content="charset=windows-1251"><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>matrix</x:Name><x:WorksheetOptions><x:Print><x:ValidPrinterInfo/></x:Print></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--> </head><body><style>.stub1{mso-style-parent:style0;mso-number-format:"\@";}.stub2{mso-style-parent:style0;mso-number-format:"\@";}.stub3{mso-style-parent:style0;mso-number-format:"\@";}.stub4{mso-style-parent:style0;mso-number-format:"\@";}.stub5{mso-style-parent:style0;mso-number-format:"\@";}.stub6{mso-style-parent:style0;mso-number-format:"\@";}.headfirst{mso-style-parent:style0;mso-number-format:"\@";}.headlast{mso-style-parent:style0;mso-number-format:"\@";}.headmid{mso-style-parent:style0;mso-number-format:"\@";}.title{mso-style-parent:style0;text-align:left;}<style><table class="pxtable"border="1"cellpadding="5"cellspacing="0">
+<tr>
+<th class="title" colspan="2">Кількість живонароджених, померлих і природний приріст (скорочення) населення по регіонах - Рік, Стать, Регіон, Тип місцевості , Зміст </th>
+</tr>
+<tr>
+<th class="headfirst" colspan="1" rowspan="2">&nbsp;</th>
+<th class="headfirst" colspan="1">Міські поселення та сільська місцевість</th>
+</tr>
+<tr><th class="headlast" colspan="1">Живонароджені</th>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >1989</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>690 981</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>35 366</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >1990</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>657 202</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>31 632</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >1991</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>630 813</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>28 981</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >1992</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>596 785</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>25 632</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >1993</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>557 467</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>22 853</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >1994</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>521 545</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>21 507</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >1995</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>492 861</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>21 115</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >1996</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>467 211</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>20 039</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >1997</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>442 581</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>19 648</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >1998</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>419 238</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>18 304</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >1999</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>389 208</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>18 323</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2000</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>385 126</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>18 954</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2001</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>376 478</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>19 360</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2002</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>390 688</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>21 156</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2003</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>408 589</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>23 275</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2004</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>427 259</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>25 884</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2005</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>426 086</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>26 258</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2006</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>460 368</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>28 101</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2007</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>472 657</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>28 445</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2008</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>510 589</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>31 965</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2009</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>512 525</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>32 488</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2010</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>497 689</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>32 082</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2011</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>502 595</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>32 068</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2012</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>520 705</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>33 887</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2013</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>503 657</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>33 305</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2014</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>465 882</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>34 821</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2015</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>411 781</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>35 558</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2016</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>397 037</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>36 569</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2017</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>363 987</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>35 359</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2018</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>335 874</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>34 586</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2019</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>308 817</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>32 503</td>
+</tr>
+<tr>
+<td class="stub1" rowspan="1" >2020</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub2" rowspan="1" >Обидві статі, осіб</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td class="stub3" >Україна</td>
+<td nowrap>293 457</td>
+</tr>
+<tr>
+<td class="stub3" >м. Київ</td>
+<td nowrap>30 670</td>
+</tr>
+<tr>
+<td class="footnote" colspan="2"><b>Примітки:</b><BR>
+<br><br>Рік<br>2014<br>Регіон<br>Україна<BR>
+Без тимчасово окупованої території Автономної Республіки Крим, м. Севастополя та частини тимчасово окупованих територій у Донецькій та Луганській областях.<br><br>Рік<br>2015<br>Регіон<br>Україна<BR>
+Без тимчасово окупованої території Автономної Республіки Крим, м. Севастополя та частини тимчасово окупованих територій у Донецькій та Луганській областях.<br><br>Рік<br>2016<br>Регіон<br>Україна<BR>
+Без тимчасово окупованої території Автономної Республіки Крим, м. Севастополя та частини тимчасово окупованих територій у Донецькій та Луганській областях.<br><br>Рік<br>2017<br>Регіон<br>Україна<BR>
+Без тимчасово окупованої території Автономної Республіки Крим, м. Севастополя та частини тимчасово окупованих територій у Донецькій та Луганській областях.<br><br>Рік<br>2018<br>Регіон<br>Україна<BR>
+Без тимчасово окупованої території Автономної Республіки Крим, м. Севастополя та частини тимчасово окупованих територій у Донецькій та Луганській областях.<br><br>Рік<br>2019<br>Регіон<br>Україна<BR>
+Без тимчасово окупованої території Автономної Республіки Крим, м. Севастополя та частини тимчасово окупованих територій у Донецькій та Луганській областях.<br><br>Рік<br>2020<br>Регіон<br>Україна<BR>
+Без тимчасово окупованої території Автономної Республіки Крим, м. Севастополя та частини тимчасово окупованих територій у Донецькій та Луганській областях.<br>
+</td>
+</tr>
+</table>
+</body></html>
